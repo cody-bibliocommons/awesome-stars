@@ -14,6 +14,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [coding](#coding)
 - [config](#config)
@@ -93,6 +94,11 @@
 - [microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples) - Sample shell scripts for Intune admins.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [zlaxy/sshch](https://github.com/zlaxy/sshch) - Ssh connection manager
+
+## claude-code 
+
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
+- [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 
 ## cli 
 
