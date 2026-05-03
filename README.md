@@ -52,6 +52,7 @@
 
 ## Python 
 
+- [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [MShekow/package-version-check-mcp](https://github.com/MShekow/package-version-check-mcp) - A MCP server that returns the latest stable versions of packages you use as dependencies in a variety of ecosystems, such as Python, NPM, Go, or GitHub Actions
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
@@ -82,6 +83,7 @@
 
 ## TypeScript 
 
+- [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [alejandrobailo/agents-anywhere](https://github.com/alejandrobailo/agents-anywhere) - Your AI agent configs, skills, and instructions on every device.
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
 - [hanzoai/console](https://github.com/hanzoai/console) - Unified LLM dev environment — debug, fine-tune, monitor
