@@ -47,6 +47,8 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sqlite](#sqlite)
+- [tailwindcss](#tailwindcss)
+- [terraform](#terraform)
 - [text-to-speech](#text-to-speech)
 - [typescript](#typescript)
 - [video](#video)
@@ -58,6 +60,7 @@
 
 ## ai 
 
+- [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
@@ -83,6 +86,7 @@
 
 ## aws 
 
+- [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [iann0036/iamlive](https://github.com/iann0036/iamlive) - Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 
 ## azure 
@@ -102,6 +106,7 @@
 
 ## cli 
 
+- [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
 ## coding 
@@ -123,6 +128,7 @@
 
 ## devops 
 
+- [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 
 ## docker 
@@ -189,6 +195,7 @@
 
 ## nextjs 
 
+- [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 
 ## nodejs 
@@ -197,6 +204,7 @@
 
 ## open-source 
 
+- [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
@@ -231,6 +239,7 @@
 
 ## python 
 
+- [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [zlaxy/sshch](https://github.com/zlaxy/sshch) - Ssh connection manager
 
 ## pytorch 
@@ -239,6 +248,8 @@
 
 ## security 
 
+- [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
+- [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [nozaq/awesome-yubikey](https://github.com/nozaq/awesome-yubikey) - Curated list of awesome Yubikey resources, open source projects, tools and tutorials.
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -258,6 +269,14 @@
 ## sqlite 
 
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
+
+## tailwindcss 
+
+- [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
+
+## terraform 
+
+- [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 
 ## text-to-speech 
 
