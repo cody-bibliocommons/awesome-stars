@@ -237,6 +237,7 @@
 
 ## others 
 
+- [chrismcdermut/proletariat](https://github.com/chrismcdermut/proletariat) - Seize the means of production. Ship 100x. Orchestrate agents as labor for any project. Billionaire theme included - finally, they work for us.
 - [wpgaurav/claude-code-skills](https://github.com/wpgaurav/claude-code-skills) - Opinionated Claude Code Agent Skills for fighting AI slop in design, code, and copy. stop-slop, red-pen, clarify, distill, quieter, polish, harden.
 - [alejandrobailo/agents-anywhere](https://github.com/alejandrobailo/agents-anywhere) - Your AI agent configs, skills, and instructions on every device.
 - [MShekow/package-version-check-mcp](https://github.com/MShekow/package-version-check-mcp) - A MCP server that returns the latest stable versions of packages you use as dependencies in a variety of ecosystems, such as Python, NPM, Go, or GitHub Actions
