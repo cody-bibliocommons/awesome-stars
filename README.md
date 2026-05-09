@@ -86,6 +86,7 @@
 
 ## TypeScript 
 
+- [chrismcdermut/proletariat](https://github.com/chrismcdermut/proletariat) - Seize the means of production. Ship 100x. Orchestrate agents as labor for any project. Billionaire theme included - finally, they work for us.
 - [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [alejandrobailo/agents-anywhere](https://github.com/alejandrobailo/agents-anywhere) - Your AI agent configs, skills, and instructions on every device.
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
