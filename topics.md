@@ -80,6 +80,7 @@
 
 ## ai-agents 
 
+- [samerfarida/mcp-ssh-orchestrator](https://github.com/samerfarida/mcp-ssh-orchestrator) - Secure SSH access for AI agents via MCP. Execute commands across your server fleet with policy enforcement, network controls, and comprehensive audit logging.
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
@@ -90,6 +91,7 @@
 
 ## automation 
 
+- [samerfarida/mcp-ssh-orchestrator](https://github.com/samerfarida/mcp-ssh-orchestrator) - Secure SSH access for AI agents via MCP. Execute commands across your server fleet with policy enforcement, network controls, and comprehensive audit logging.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 
 ## awesome 
@@ -155,6 +157,7 @@
 
 ## docker 
 
+- [samerfarida/mcp-ssh-orchestrator](https://github.com/samerfarida/mcp-ssh-orchestrator) - Secure SSH access for AI agents via MCP. Execute commands across your server fleet with policy enforcement, network controls, and comprehensive audit logging.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [brakmic/Keycloak_Templating_Environment](https://github.com/brakmic/Keycloak_Templating_Environment) - Keycloak Templating Environment
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -213,6 +216,7 @@
 
 ## mcp 
 
+- [samerfarida/mcp-ssh-orchestrator](https://github.com/samerfarida/mcp-ssh-orchestrator) - Secure SSH access for AI agents via MCP. Execute commands across your server fleet with policy enforcement, network controls, and comprehensive audit logging.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
@@ -276,6 +280,7 @@
 
 ## python 
 
+- [samerfarida/mcp-ssh-orchestrator](https://github.com/samerfarida/mcp-ssh-orchestrator) - Secure SSH access for AI agents via MCP. Execute commands across your server fleet with policy enforcement, network controls, and comprehensive audit logging.
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
