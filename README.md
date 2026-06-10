@@ -92,7 +92,6 @@
 - [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [alejandrobailo/agents-anywhere](https://github.com/alejandrobailo/agents-anywhere) - Your AI agent configs, skills, and instructions on every device.
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
-- [hanzoai/console](https://github.com/hanzoai/console) - Unified LLM dev environment — debug, fine-tune, monitor
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 
 
