@@ -224,7 +224,6 @@
 
 ## monitoring 
 
-- [hanzoai/console](https://github.com/hanzoai/console) - Unified LLM dev environment — debug, fine-tune, monitor
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 
 ## nextjs 
