@@ -42,6 +42,7 @@
 - [openai](#openai)
 - [operating-system](#operating-system)
 - [others](#others)
+- [package-manager](#package-manager)
 - [powershell](#powershell)
 - [prompt-engineering](#prompt-engineering)
 - [python](#python)
@@ -127,6 +128,7 @@
 
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 
 ## cloud 
 
@@ -265,9 +267,12 @@
 - [ProfileCreator/ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS app to create standard or customized configuration profiles.
 - [sample/pritunl-keycloak-user-check](https://github.com/sample/pritunl-keycloak-user-check) - Plugin for Pritunl that checks if a user is available in Keycloak. Includes documentation on integrating Pritunl SSO with Keycloak.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [flyingrhinonz/nccm](https://github.com/flyingrhinonz/nccm) - 
+
+## package-manager 
+
+- [marcosnils/bin](https://github.com/marcosnils/bin) - Effortless binary manager
 
 ## powershell 
 
