@@ -91,7 +91,7 @@
 - [chrismcdermut/proletariat](https://github.com/chrismcdermut/proletariat) - Seize the means of production. Ship 100x. Orchestrate agents as labor for any project. Billionaire theme included - finally, they work for us.
 - [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [alejandrobailo/agents-anywhere](https://github.com/alejandrobailo/agents-anywhere) - Your AI agent configs, skills, and instructions on every device.
-- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 
 
