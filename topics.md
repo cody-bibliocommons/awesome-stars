@@ -18,7 +18,6 @@
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
-- [coding](#coding)
 - [config](#config)
 - [deep-learning](#deep-learning)
 - [developer-tools](#developer-tools)
@@ -48,6 +47,8 @@
 - [python](#python)
 - [pytorch](#pytorch)
 - [rag](#rag)
+- [react](#react)
+- [rust](#rust)
 - [security](#security)
 - [security-tools](#security-tools)
 - [self-hosted](#self-hosted)
@@ -64,7 +65,6 @@
 ## agent 
 
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
 
 ## agents 
 
@@ -74,7 +74,7 @@
 
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
-- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -82,7 +82,7 @@
 ## ai-agents 
 
 - [samerfarida/mcp-ssh-orchestrator](https://github.com/samerfarida/mcp-ssh-orchestrator) - Secure SSH access for AI agents via MCP. Execute commands across your server fleet with policy enforcement, network controls, and comprehensive audit logging.
-- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 
@@ -121,7 +121,7 @@
 ## claude-code 
 
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
-- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 
 ## cli 
@@ -135,10 +135,6 @@
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 
-## coding 
-
-- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - The Pair - Automated pair programming — grab a coffee while two AI agents cross-check each other's work
-
 ## config 
 
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
@@ -149,6 +145,7 @@
 
 ## developer-tools 
 
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard.
 
@@ -297,6 +294,14 @@
 ## rag 
 
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
+
+## react 
+
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
+
+## rust 
+
+- [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
 
 ## security 
 
