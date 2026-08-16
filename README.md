@@ -10,7 +10,6 @@
 - [JavaScript](#javascript)
 - [Others](#others)
 - [PHP](#php)
-- [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -48,10 +47,6 @@
 
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 
-## PowerShell 
-
-- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for a better and simpler tab-completion experience in PowerShell.
-
 ## Python 
 
 - [samerfarida/mcp-ssh-orchestrator](https://github.com/samerfarida/mcp-ssh-orchestrator) - Secure SSH access for AI agents via MCP. Execute commands across your server fleet with policy enforcement, network controls, and comprehensive audit logging.
@@ -72,6 +67,7 @@
 ## Rust 
 
 - [git-ai-project/git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for a better and simpler tab-completion experience in PowerShell.
 
 ## Shell 
 
