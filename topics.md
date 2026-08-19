@@ -153,14 +153,14 @@
 
 ## developer-tools 
 
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 
 ## devops 
 
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [moul/assh](https://github.com/moul/assh) - :computer: make your ssh client smarter
 
@@ -177,16 +177,16 @@
 
 ## git 
 
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
 ## github 
 
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 
 ## go 
 
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
@@ -194,7 +194,7 @@
 
 ## golang 
 
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 
@@ -321,7 +321,7 @@
 
 ## security 
 
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. Connect your agents now and build on the Agentic Cloud 
 - [trycompai/comp](https://github.com/trycompai/comp) - AI Native platform to get companies compliant - Vanta & Drata Alternative
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
@@ -331,7 +331,7 @@
 
 ## security-tools 
 
-- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Scan the world (for secrets)
+- [betterleaks/betterleaks](https://github.com/betterleaks/betterleaks) - Find leaked secrets everywhere.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. Connect your agents now and build on the Agentic Cloud 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
