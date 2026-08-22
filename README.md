@@ -39,7 +39,6 @@
 
 ## Others 
 
-- [wpgaurav/claude-code-skills](https://github.com/wpgaurav/claude-code-skills) - Opinionated Claude Code Agent Skills for fighting AI slop in design, code, and copy. stop-slop, red-pen, clarify, distill, quieter, polish, harden.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [nozaq/awesome-yubikey](https://github.com/nozaq/awesome-yubikey) - Curated list of awesome Yubikey resources, open source projects, tools and tutorials.
 
@@ -53,6 +52,7 @@
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
+- [wpgaurav/claude-code-skills](https://github.com/wpgaurav/claude-code-skills) - Opinionated Claude Code Agent Skills for fighting AI slop in design, code, and copy. stop-slop, red-pen, clarify, distill, quieter, polish, harden.
 - [gebalamariusz/cloud-audit](https://github.com/gebalamariusz/cloud-audit) - Fast, opinionated AWS security scanner. Curated checks. Zero noise. Copy-paste fixes.
 - [MShekow/package-version-check-mcp](https://github.com/MShekow/package-version-check-mcp) - A MCP server that returns the latest stable versions of packages you use as dependencies in a variety of ecosystems, such as Python, NPM, Go, or GitHub Actions
 - [speechbrain/speechbrain](https://github.com/speechbrain/speechbrain) - A PyTorch-based Speech Toolkit
