@@ -294,7 +294,7 @@
 
 ## powershell 
 
-- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A completion manager for a better and simpler tab-completion experience in PowerShell.
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - A tab-completion manager for PowerShell, powered by Rust engine and interactive menu.
 
 ## prompt-engineering 
 
