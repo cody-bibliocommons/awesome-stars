@@ -33,7 +33,9 @@
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [kubernetes](#kubernetes)
+- [linux](#linux)
 - [llm](#llm)
+- [lua](#lua)
 - [mac](#mac)
 - [macos](#macos)
 - [mcp](#mcp)
@@ -61,8 +63,10 @@
 - [tailwindcss](#tailwindcss)
 - [terraform](#terraform)
 - [text-to-speech](#text-to-speech)
+- [tui](#tui)
 - [typescript](#typescript)
 - [video](#video)
+- [windows](#windows)
 - [zsh](#zsh)
 
 ## agent 
@@ -121,6 +125,7 @@
 
 ## bash 
 
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
 - [microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples) - Sample shell scripts for Intune admins.
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [zlaxy/sshch](https://github.com/zlaxy/sshch) - Ssh connection manager
@@ -218,11 +223,19 @@
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 
+## linux 
+
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
+
 ## llm 
 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
+
+## lua 
+
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
 
 ## mac 
 
@@ -230,6 +243,7 @@
 
 ## macos 
 
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
 - [microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples) - Sample shell scripts for Intune admins.
 - [cocopuff2u/MOFA](https://github.com/cocopuff2u/MOFA) - A collection of tools, scripts, and resources for macAdmins to manage and deploy Microsoft updates on macOS, including patches for Office, Teams, and other Microsoft software
 - [Macjutsu/super](https://github.com/Macjutsu/super) - S.U.P.E.R.M.A.N. optimizes the macOS software update experience.
@@ -323,6 +337,7 @@
 ## rust 
 
 - [timwuhaotian/the-pair](https://github.com/timwuhaotian/the-pair) - Open-source AI pair programming for desktop: a Mentor + Executor agent cross-check each other's code to catch AI hallucinations. Works with Claude Code, Codex, Gemini & opencode. macOS / Windows / Lin
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
 
 ## security 
 
@@ -369,6 +384,10 @@
 
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 
+## tui 
+
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
+
 ## typescript 
 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -378,8 +397,13 @@
 
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
 
+## windows 
+
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
+
 ## zsh 
 
+- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
 - [zlaxy/sshch](https://github.com/zlaxy/sshch) - Ssh connection manager
 
 
