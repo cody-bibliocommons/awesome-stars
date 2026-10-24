@@ -33,7 +33,6 @@
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [kubernetes](#kubernetes)
-- [linux](#linux)
 - [llm](#llm)
 - [lua](#lua)
 - [mac](#mac)
@@ -66,7 +65,6 @@
 - [tui](#tui)
 - [typescript](#typescript)
 - [video](#video)
-- [windows](#windows)
 - [zsh](#zsh)
 
 ## agent 
@@ -223,10 +221,6 @@
 - [cloud-custodian/cloud-custodian](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 
-## linux 
-
-- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
-
 ## llm 
 
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -243,7 +237,6 @@
 
 ## macos 
 
-- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
 - [microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples) - Sample shell scripts for Intune admins.
 - [cocopuff2u/MOFA](https://github.com/cocopuff2u/MOFA) - A collection of tools, scripts, and resources for macAdmins to manage and deploy Microsoft updates on macOS, including patches for Office, Teams, and other Microsoft software
 - [Macjutsu/super](https://github.com/Macjutsu/super) - S.U.P.E.R.M.A.N. optimizes the macOS software update experience.
@@ -396,10 +389,6 @@
 ## video 
 
 - [livekit/agents](https://github.com/livekit/agents) - A framework for building realtime voice AI agents 🤖🎙️📹
-
-## windows 
-
-- [abgox/PSCompletions](https://github.com/abgox/PSCompletions) - Powerful Shell Completions for PowerShell and other shells, powered by Rust and Lua.
 
 ## zsh 
 
