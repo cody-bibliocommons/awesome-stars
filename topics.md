@@ -37,6 +37,7 @@
 - [mac](#mac)
 - [macos](#macos)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [monitoring](#monitoring)
 - [nextjs](#nextjs)
 - [nodejs](#nodejs)
@@ -241,6 +242,10 @@
 - [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 - [builderz-labs/mission-control](https://github.com/builderz-labs/mission-control) - Self-hosted control plane for AI agents: dispatch tasks, review runs, track spend, and operate OpenClaw, Claude Code, Codex, and other runtimes.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
+
+## mcp-server 
+
+- [samerfarida/mcp-ssh-orchestrator](https://github.com/samerfarida/mcp-ssh-orchestrator) - Secure SSH access for AI agents via MCP. Execute commands across your server fleet with policy enforcement, network controls, and comprehensive audit logging.
 
 ## monitoring 
 
