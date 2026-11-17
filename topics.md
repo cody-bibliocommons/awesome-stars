@@ -7,6 +7,7 @@
 
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
@@ -72,6 +73,10 @@
 ## agent-skills 
 
 - [wpgaurav/claude-code-skills](https://github.com/wpgaurav/claude-code-skills) - Opinionated Claude Code Agent Skills for fighting AI slop in design, code, and copy. stop-slop, red-pen, clarify, distill, quieter, polish, harden.
+
+## agentic-ai 
+
+- [mukul975/claude-team-dashboard](https://github.com/mukul975/claude-team-dashboard) - 📊 Real-time monitoring dashboard for Claude Code agent teams
 
 ## agents 
 
